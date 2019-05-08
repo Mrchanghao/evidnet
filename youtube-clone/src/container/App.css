@@ -1,0 +1,11 @@
+
+.app {
+  margin-top: 1rem;
+}
+.app__video__detail {
+  width: 80%;
+}
+
+.app__video__list {
+  width: 100%;
+}
